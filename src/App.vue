@@ -5,7 +5,7 @@
      <router-link to="/" class="navbar-brand">HOME Page</router-link>
      <div class="navbar-nav mr-auto">
        <li class="nav-item">
-         <router-link to="/page-2" class="nav-link">Page 2 </router-link>
+        <router-link to="/ekle" class="nav-link">Todo Ekle </router-link>
        </li>
        
      </div>
